@@ -1,0 +1,23 @@
+{
+  "name": "calendar-from-stream-rebuild",
+  "version": "1.0.0",
+  "description": "Add a stream schedule to google calendar [rebuild]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cffnpwr/calendar-from-stream-rebuild.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cffnpwr/calendar-from-stream-rebuild/issues"
+  },
+  "homepage": "https://github.com/cffnpwr/calendar-from-stream-rebuild#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.41"
+  }
+}
